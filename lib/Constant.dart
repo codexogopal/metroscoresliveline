@@ -6,8 +6,8 @@ class Constant {
   static String APP_STORE_LINK = 'https://apps.apple.com/in/app/';
   static String CONTACT_US_EMAIL = 'metrolivelines@gmail.com';
 
-  static String BASE_URL_LIVE = "http://apicricketchampion.in/apiv4/";
-  static String TOKEN = "86e7de92809e9e36ad2953e8b4adc294";
+  static String BASE_URL_LIVE = "https://apicricketchampion.in/apiv4/";
+  static String TOKEN = "a8b350525ba0047d7e814757ac167146";
 
   static String WEB_SERVICE_URL = "https://metroliveline.com/webservices/";
 
